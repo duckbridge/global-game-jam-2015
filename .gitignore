@@ -1,0 +1,9 @@
+/Temp
+/obj
+/Library
+Library
+/Deploy
+*.csproj
+*.unityproj
+*.sln
+*.userprefs
